@@ -1,0 +1,68 @@
+  
+.header {color: black;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+h2 {color: black;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.main
+{color: grey;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;}
+
+p
+{color: grey;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;}
+
+.kontejner {
+    background-color: #FAFAFA;
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    }
+
+.kontejner > * {
+    
+    padding: 10 px;
+    margin: 10 px;
+    flex: 1 100%;
+    border-radius: 10px;
+
+}
+
+.DO {
+    padding: 10px;
+    width: 100%;
+    color:white;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    background-color:#407BFF;
+    border: none;
+    border-radius: 30px;}
+    
+    .PP {
+        padding: 10px;
+        width: 100%;
+        font-size: 18px;
+        color:white;
+        margin-bottom: 5px;
+        text-align: center;
+        font-weight: bold;
+        background-color:grey;
+        border: none;
+        border-radius: 30px;}
+
+.rec2 {background-color: white;
+        width: 200px;
+        height: 100px;}
+        
